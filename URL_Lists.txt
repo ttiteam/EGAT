@@ -31,4 +31,4 @@ Facebook-app_Hero-Wars=heroes-a.akamaihd.net/,nextersglobal.com/
 Facebook-app_Farmville=zynga1-a.akamaihd.net/,farmville.com/,zynga2-a.akamaihd.net/
 Facebook-app_Soldiers-Inc=csfp.x-plarium.com/,mkfb1s00.plrm.zone/
 Facebook-app_Candy-Crush-Jelly-Saga=candycrushjellycanvas.king.com/,about.king.com/,contenido-prod.akamaized.net/,discover.king.com/,rakdos-prod.akamaized.net/,bling.king.com/
-bingoTest=playtika.com/
+bingoTest=playtika.com/,555.com/
