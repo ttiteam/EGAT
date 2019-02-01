@@ -30,4 +30,4 @@ Facebook-app_Knights&Brides=vapp-servers.com/,vizorfb-a.akamaihd.net/
 Facebook-app_Hero-Wars=heroes-a.akamaihd.net/,nextersglobal.com/
 Facebook-app_Farmville=zynga1-a.akamaihd.net/,farmville.com/,zynga2-a.akamaihd.net/
 Facebook-app_Soldiers-Inc=csfp.x-plarium.com/,mkfb1s00.plrm.zone/
-bingoTest=playtika.com/,ggg.com/
+bingoTest=playtika.com/
